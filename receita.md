@@ -1,8 +1,10 @@
-## Ingredientes:
+# Super Receita
+
+### Descrição:
 
 
-## Modo de Preparo:
+### Ingredientes:
 
 
-## Descrição:
+### Modo de Preparo:
 
